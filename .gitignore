@@ -1,6 +1,8 @@
 /target
 /classes
 /checkouts
+/resources/public/css
+/resources/public/js/superfish-master
 pom.xml
 pom.xml.asc
 *.jar

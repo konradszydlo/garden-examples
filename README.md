@@ -2,10 +2,6 @@
 
 Some examples of using Garden CSS in Clojure.
 
-## Usage
-
-FIXME
-
 ## License
 
 Copyright © 2015 FIXME

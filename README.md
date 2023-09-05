@@ -1,6 +1,6 @@
 # garden-examples
 
-A Clojure library designed to ... well, that part is up to you.
+Some examples of using Garden CSS in Clojure.
 
 ## Usage
 
